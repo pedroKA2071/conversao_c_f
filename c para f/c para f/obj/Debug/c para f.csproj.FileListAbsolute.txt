@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\bin\Debug\c para f.exe.config
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\bin\Debug\c para f.exe
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\bin\Debug\c para f.pdb
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\obj\Debug\c para f.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\obj\Debug\c para f.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\obj\Debug\c para f.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\obj\Debug\c para f.exe
+C:\Users\pedro.hgaspar2\source\repos\conversao_c_f\c para f\c para f\obj\Debug\c para f.pdb
